@@ -6,8 +6,7 @@ This game was built as a Udacity Course project. The purpose of the project is t
 
 ## How to Load the game
 
-- Clone the **[repo](https://github.com/joetrudell/memory-game.git)** and open index.html -- or --
-- Play on GitHub.io: **[Rick and Morty Memory Game](https://joetrudell.github.io/memory-game/)**
+- Clone the **[repo](https://github.com/joetrudell/memory-game.git)** and open index.html
 
 ### How to Play the Game
 
