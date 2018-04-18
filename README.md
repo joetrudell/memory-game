@@ -33,3 +33,30 @@ On each turn:
 - The game features a timer to keep track of how long it takes to win and reports time on win screen
 - The player starts out with a three star rating -- but the rating drops the more moves it take to complete the game
 - When the game ends, a pop-up appears with the elapsed time, final star rating and a restart button
+
+
+## Resources used to create the game:
+
+### Array shuffle:
+
+- <http://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array>
+
+### Card Flipping CSS:
+
+- <https://davidwalsh.name/css-flip>
+
+### Timer
+
+- <https://www.w3schools.com/howto/howto_js_countdown.asp>
+
+### Modal
+
+- <https://www.w3schools.com/howto/howto_css_modals.asp>
+
+### Button CSS
+
+- <http://css3buttongenerator.com/>
+
+### Rick and Morty Get Schwifty Font
+
+- <https://jonizaak.deviantart.com/art/Get-Schwifty-A-Rick-and-Morty-font-638073728>
